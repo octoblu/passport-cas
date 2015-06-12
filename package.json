@@ -1,5 +1,5 @@
 {
-  "name": "passport-cas",
+  "name": "passport-citrix-auth-service",
   "version": "1.0.0",
   "description": "Passport Strategy for Citrix Authenticaton Service",
   "main": "./lib",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/octoblu/passport-cas.git"
+    "url": "https://github.com/octoblu/passport-citrix-auth-service.git"
   },
   "keywords": [
     "passport",
@@ -18,9 +18,9 @@
   "author": "Octoblu Inc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/octoblu/passport-cas/issues"
+    "url": "https://github.com/octoblu/passport-citrix-auth-service/issues"
   },
-  "homepage": "https://github.com/octoblu/passport-cas",
+  "homepage": "https://github.com/octoblu/passport-citrix-auth-service",
   "dependencies": {
     "passport-oauth2": "^1.1.2"
   }
